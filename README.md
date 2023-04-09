@@ -9,7 +9,7 @@ I am an explorer in this amazing world of Programming and Technology.
 
 - 😎I am familiar with:
   Java,
-  Python
+  Python,
   SQL
   
 - 🔭 I’m currently learning Web Development
