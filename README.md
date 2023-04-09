@@ -12,9 +12,9 @@ I am an explorer in this amazing world of Programming and Technology.
   Python
   SQL
   
-🔭 I’m currently learning Web Development
+- 🔭 I’m currently learning Web Development
  
-⚡ Interested in Competitive Coding as well as Software Development
+- ⚡ Interested in Competitive Coding as well as Software Development
 
 <!--
 - 🌱 I’m currently working on ...
@@ -23,10 +23,10 @@ I am an explorer in this amazing world of Programming and Technology.
 - 💬 Ask me about ...
 -->
 
-📫 How to reach me:
+- 📫 How to reach me:
   Instagram -https://www.instagram.com/pranithdutta26/
   Twitter - https://twitter.com/PALLADIUM_62
   LinkedIN - https://www.linkedin.com/in/pranithdutta/
   
-😄 Pronouns: He / Him
+- 😄 Pronouns: He / Him
 
