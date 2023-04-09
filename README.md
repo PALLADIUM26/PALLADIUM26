@@ -23,6 +23,10 @@ I am an explorer in this amazing world of Programming and Technology.
 - 💬 Ask me about ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 📫 How to reach me:
   Instagram -https://www.instagram.com/pranithdutta26/
   Twitter - https://twitter.com/PALLADIUM_62
