@@ -9,17 +9,18 @@
 -->
 
 I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
-I am an explorer in this amazing world of Programming and Technology.
+<br>
+- 🧑🏻‍💻 I am an explorer in this amazing world of Programming and Technology.
 <!--Here are some ideas to get you started:-->
 
-- 😎I am familiar with:
-  Java,
+- 😎 I am familiar with:
+  Java☕︎,
   Python,
   MySQL
   
 - 🔭 I’m currently exploring AI/ML
  
-- ⚡ Interested in Competitive Coding as well as Software Development
+- 💻 Interested in Competitive Coding as well as Software Development
 
 <!--
 - 🌱 I’m currently working on ...
