@@ -8,7 +8,7 @@
 **PALLADIUM26/PALLADIUM26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a Freshman year student pursuing B. Tech in CSE.
+I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 I am an explorer in this amazing world of Programming and Technology.
 <!--Here are some ideas to get you started:-->
 
@@ -17,7 +17,7 @@ I am an explorer in this amazing world of Programming and Technology.
   Python,
   MySQL
   
-- 🔭 I’m currently learning Web Development
+- 🔭 I’m currently exploring AI/ML
  
 - ⚡ Interested in Competitive Coding as well as Software Development
 
