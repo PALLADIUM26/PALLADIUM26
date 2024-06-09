@@ -24,7 +24,7 @@ A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
   # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
   
-- 🔭 I’m currently exploring AI/ML
+- 🔭 Currently exploring AI/ML
  
 - 💻 Interested in Competitive Coding as well as Software Development
 
@@ -36,7 +36,7 @@ A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 -->
 
 
-##Tech Stack:
+## Tech Stack:
 <p align="left">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="26" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
@@ -54,9 +54,10 @@ A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+## Connect With me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/PALLADIUM_62)
 [![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
-[![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)](https://www.instagram.com/pranithdutta26/)
 
 <!--
