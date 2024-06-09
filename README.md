@@ -35,7 +35,7 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/PALLADIUM_62)
 [![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
-[![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)](https://www.instagram.com/pranithdutta26/)
 
 <div id="header" align="center">
