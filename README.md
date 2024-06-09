@@ -8,15 +8,17 @@
 **PALLADIUM26/PALLADIUM26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
+A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 <br>
-- 🧑🏻‍💻 I am an explorer in this amazing world of Programming and Technology.
+- 🧑🏻‍💻 An explorer in this amazing world of Programming and Technology.
 <!--Here are some ideas to get you started:-->
 
+<!--
 - 😎 I am familiar with:
   Java☕︎,
   Python,
   MySQL
+-->
 
 <!--
   # 💻 Tech Stack:
@@ -33,14 +35,29 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 - 💬 Ask me about ...
 -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/PALLADIUM_62)
-[![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
-[![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)](https://www.instagram.com/pranithdutta26/)
+
+##Tech Stack:
+<p align="left">
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
+  <!-- <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> -->
+  <!-- <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <!-- <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code> -->
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+  <!-- <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
+</p></br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/PALLADIUM_62)
+[![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
+[![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)](https://www.instagram.com/pranithdutta26/)
 
 <!--
 <div id="badges"  align="center">
@@ -56,6 +73,7 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
--->
+
 - 😄 Pronouns: He / Him
+-->
 
