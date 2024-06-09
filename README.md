@@ -42,7 +42,9 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/PALLADIUM_62">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <!--<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>-->
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter">
+
   </a>
   <a href="https://www.instagram.com/pranithdutta26/">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
