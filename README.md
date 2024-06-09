@@ -33,6 +33,13 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 - 💬 Ask me about ...
 -->
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/intent/follow?screen_name=PALLADIUM26)
+[![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
+<!--[![GitHub followers](https://img.shields.io/github/followers/imanishbarnwal?label=Follow&style=social)](https://github.com/imanishbarnwal/?tab=follow)-->
+[![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
+<!--[![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal)-->
+[![Instagram Badge](https://img.shields.io/badge/-pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)](https://www.instagram.com/pranithdutta26/)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
