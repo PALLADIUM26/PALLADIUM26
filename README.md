@@ -8,25 +8,16 @@
 **PALLADIUM26/PALLADIUM26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
-<br>
+### DESC:
+- 😎 A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 - 🧑🏻‍💻 An explorer in this amazing world of Programming and Technology.
-<!--Here are some ideas to get you started:-->
-
-<!--
-- 😎 I am familiar with:
-  Java☕︎,
-  Python,
-  MySQL
--->
+- 🔭 Currently exploring AI/ML
+- 💻 Interested in Competitive Coding as well as Software Development
+- 😄 Pronouns: He / Him
 
 <!--
   # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
-  
-- 🔭 Currently exploring AI/ML
- 
-- 💻 Interested in Competitive Coding as well as Software Development
 
 <!--
 - 🌱 I’m currently working on ...
@@ -64,7 +55,7 @@ A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Connect With me:
+## Connect with me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/PALLADIUM_62)
 [![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
 [![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
@@ -85,6 +76,6 @@ A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
   </a>
 </div>
 
-- 😄 Pronouns: He / Him
+
 -->
 
