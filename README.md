@@ -36,12 +36,14 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 [![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/PALLADIUM_62)
 [![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
 [![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)](https://www.instagram.com/pranithdutta26/)
+[![Instagram Badge](https://img.shields.io/badge/-pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)]
+<!--(https://www.instagram.com/pranithdutta26/)-->
 
-<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<!--
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/pranithdutta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
