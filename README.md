@@ -33,7 +33,7 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 - 💬 Ask me about ...
 -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/intent/follow?screen_name=PALLADIUM26)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PALLADIUM26?style=social)](https://twitter.com/PALLADIUM_62)
 [![Linkedin Badge](https://img.shields.io/badge/-Pranith_Dutta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranithdutta/)](https://www.linkedin.com/in/pranithdutta/)
 [![Gmail Badge](https://img.shields.io/badge/-pranithdutta26@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranithdutta26@gmail.com)](mailto:pranithdutta26@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-pranithdutta26?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/pranithdutta26/)](https://www.instagram.com/pranithdutta26/)
@@ -48,9 +48,9 @@ I am a Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
   </a>
   <a href="https://twitter.com/PALLADIUM_62">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/x"/> -->
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/x"/>
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/x">
-  <!--</a>
+  </a>
   <a href="https://www.instagram.com/pranithdutta26/">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
