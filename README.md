@@ -8,7 +8,10 @@
 **PALLADIUM26/PALLADIUM26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### DESC:
+```
+use Github;
+desc PALLADIUM26;
+```
 - 😎 A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 - 🧑🏻‍💻 An explorer in this amazing world of Programming and Technology.
 - 🔭 Currently exploring AI/ML
