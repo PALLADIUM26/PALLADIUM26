@@ -12,10 +12,12 @@
 use Github;
 desc PALLADIUM26;
 ```
-- 😎 A Sophomore student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
+- 😎 A Junior student pursuing B. Tech in CSE @SISTER NIVEDITA UNIVERSITY.
 - 🧑🏻‍💻 An explorer in this amazing world of Programming and Technology.
 - 🔭 Currently exploring AI/ML
+- 🤖 Backend dev at Shiftux
 - 💻 Interested in Competitive Coding as well as Software Development
+- 🤩 Hack4Bengal - 2nd Runner Up in Solana track
 - 😄 Pronouns: He / Him
 
 <!--
